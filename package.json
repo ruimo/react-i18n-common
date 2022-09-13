@@ -1,0 +1,19 @@
+{
+  "name": "@ruimo/react-i18n-common",
+  "version": "1.0.0",
+  "description": "i18n common message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruimo/react-i18n-common.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruimo/react-i18n-common/issues"
+  },
+  "homepage": "https://github.com/ruimo/react-i18n-common#readme"
+}
